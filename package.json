@@ -1,6 +1,6 @@
 {
-    "name": "mistertemp-import-sort",
-    "displayName": "Mistertemp-import-sort",
+    "name": "eslint-import-sort",
+    "displayName": "eslint-import-sort",
     "description": "sort js imports with the mistertemp guidline",
     "version": "0.0.1",
     "publisher": "lzientek",
